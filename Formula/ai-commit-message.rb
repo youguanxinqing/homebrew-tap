@@ -1,8 +1,8 @@
 class AiCommitMessage < Formula
   desc "Generate Conventional Commits messages from staged changes using Claude AI"
   homepage "https://github.com/youguanxinqing/ai-commit-message"
-  url "https://github.com/youguanxinqing/ai-commit-message/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "c7bd77ee2efd004b2e93399a64688423d750ff45816a233c0d00710166e35e36"
+  url "https://github.com/youguanxinqing/ai-commit-message/releases/download/v0.1.0/ai-commit-message-0.1.0.tar.gz"
+  sha256 "43eb3f2cad80e6dc149d793d787a3bb52e24103e15c67f34b19e44c10eb23896"
   license "MIT"
   head "https://github.com/youguanxinqing/ai-commit-message.git", branch: "master"
 
